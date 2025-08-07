@@ -72,9 +72,10 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
 
 <img src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NILTONMIGUEL.NILTONMIGUEL&"  />
-</div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=003366&center=true&vCenter=true&width=600&lines=JavaScript+💛;PHP+💙;VS+Code+🔵;HTML5+🟠;CSS3+🔷;Inkscape+🎨;Canva+🖌️" alt="Typing SVG" />
+</h2>
 
 
 
