@@ -28,11 +28,13 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/29164367-0e05-4fb4-a979-817addfa0d93" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/65378a5f-c484-474e-819c-3bf369bb7c94" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c2f68444-9780-49f4-a0e1-14cb2d1d9450" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f7115d2a-8df1-4bdb-9e12-ead3f65d30f9" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/22e730bd-6c39-47f5-b988-4cca7cefc4f4" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a6e9bb64-9ccd-4848-9b63-3e15809b0455" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/80f4c394-10f1-4f46-af8c-0881a1b40225" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5390d7f3-c0ef-4129-8b9b-e0edb4c2aa55" />
 
-
-
-
-
+</div>
  <br/>
  
  ### Explorando o Futuro com Tecnologia e Programação
