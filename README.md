@@ -2,6 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Nilton+Sousa;Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</h1>
+
 # Olá Pessoas Sejam Bem Vindos(a) !
 #### Me chamo Nilton Sousa , Sou discente de tecnológias , atualmente estou fazendo facudade de Análise e Desenvolvimento de Sistemas e curso técnico em Desenvolvimento de sistemas.
 
@@ -72,11 +76,7 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NILTONMIGUEL.NILTONMIGUEL&"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 
