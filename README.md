@@ -12,9 +12,7 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
 
 ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api?username=NILTONMIGUEL&show_icons=true&theme=dracula)  ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&show_icons=true&theme=blue-green)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NILTONMIGUEL.NILTONMIGUEL&"  />
-</div>
+
 
 ## Tecnologias que Cursei
 
@@ -70,6 +68,15 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
 
 <img src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NILTONMIGUEL.NILTONMIGUEL&"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
