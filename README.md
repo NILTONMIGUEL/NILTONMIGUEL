@@ -77,7 +77,16 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=003366&center=true&vCenter=true&width=600&lines=JavaScript+💛;PHP+💙;VS+Code+🔵;HTML5+🟠;CSS3+🔷;Inkscape+🎨;Canva+🖌️" alt="Typing SVG" />
 </h2>
 
-
-
+<p align="left">
+  <a href="https://vercel.com"><img src="https://vercelbadge.vercel.app/api/NILTONMIGUEL/NILTONMIGUEL" alt="Deploy com Vercel" style="display:inline-block;"></a>
+  <img src="https://img.shields.io/github/languages/top/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge&color=0000ff" alt="Linguagem Principal" style="display:inline-block;">
+  <img src="https://img.shields.io/github/license/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Licença" style="display:inline-block;">
+  <img src="https://img.shields.io/github/last-commit/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Último Commit" style="display:inline-block;">
+  <img src="https://img.shields.io/github/stars/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Stars" style="display:inline-block;">
+  <img src="https://img.shields.io/github/forks/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Forks" style="display:inline-block;">
+  <img src="https://img.shields.io/github/issues/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Issues abertas" style="display:inline-block;">
+  <img src="https://img.shields.io/github/followers/NILTONMIGUEL?style=for-the-badge" alt="Seguidores" style="display:inline-block;">
+  <img src="https://img.shields.io/github/repo-size/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Tamanho do repositório" style="display:inline-block;">
+</p>
 
 
