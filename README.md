@@ -15,29 +15,13 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
 ## Tecnologias que Cursei
 
 <div style="display:inline-block "><br/>
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c521cae6-5163-4227-990e-59990359c22a" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f969a028-467d-48e0-988e-3b5cac087212" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fe9ddb52-3a39-42f3-a421-b8ef3abf3c60" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/401cc544-fef4-4af1-bf7c-027f5cf33533" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ac93901d-2b1f-4e01-b43d-eee8dd4d69bb" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d31788a5-8074-4088-929b-2b012f21e0d6" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/26ac4341-c3d5-407b-91be-f82e452f9b80" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1f36eabd-2dda-4a13-915b-04280284f3fd" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cd10809f-9989-4159-8124-0391ded56b9e" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e12d49e3-d5cb-444b-ad4d-ab09335164a8" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ff9c52f4-814f-4c91-8950-59cadcd168c9" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/087455db-4d88-4c78-8e3d-9ee467f12ec1" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/04c8c956-cedf-4668-810c-41214c39028b" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/92dc252d-1ac8-4209-823b-bb04eb1aaf16" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d817e3aa-e66e-4291-8204-63e1074a587e" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4403487b-9f93-4982-8354-7abccbe060be" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6822a2be-877d-4aa0-918b-5b8e3972e45e" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/98cbfa01-f7b5-4ceb-81d7-664824bb99c6" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f53016d5-d6af-4bf7-a08b-5cb81ca92e0e" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8b7aeb4f-43d5-42ee-9ba6-a77e69687737" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c7593d16-2376-4f8b-90e0-c9116612e17d" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bd1a3900-64ae-4119-8bb1-f8a8446a9921" />
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/70568836-3150-4417-bc9b-fe25fe6b75f8" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ea23d9cb-430b-45df-943e-ebeab6d1a87e" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b76e9af-7730-4f93-b2ac-502e2b37b5a2" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bab5a2bf-6b46-45fc-b0fb-19e7022f27f4" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1ab7bf20-9c16-4b39-9724-0cdb7b6dfb79" />
+
+
+
  <br/>
  
  ### Explorando o Futuro com Tecnologia e Programação
