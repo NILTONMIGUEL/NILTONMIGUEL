@@ -52,7 +52,7 @@ Se você é apaixonado por tecnologia, inovação e o poder da programação, es
 
 Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem busca entender como as coisas funcionam por trás das telas. Se você gosta de desafios, de resolver problemas e de construir o futuro com as próprias mãos (e teclas), junte-se a mim nessa jornada digital. A tecnologia está em constante evolução — e eu também.
  
-## Tecnologias que utilizo no meu dia-a-dia
+## Tecnologias que utilizo no meu dia a dia
 <div style="display:inline-block">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0621df21-7d19-4470-a9fa-e2b0bcc63bce" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6a13a1bd-30ca-4026-9a31-7a6485d4e323" />
