@@ -50,7 +50,7 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
  
 Se você é apaixonado por tecnologia, inovação e o poder da programação, está no lugar certo. Aqui, acreditamos que cada linha de código é uma oportunidade de transformar ideias em soluções reais. Seja criando aplicativos, desenvolvendo sistemas inteligentes ou automatizando tarefas do dia a dia, programar é mais do que uma habilidade — é uma forma de pensar o mundo de maneira lógica, criativa e eficiente.
 
-Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem busca entender como as coisas funcionam por trás das telas. Se você gosta de desafios, de resolver problemas e de construir o futuro com as próprias mãos (e teclas), junte-se a nós nessa jornada digital. A tecnologia está em constante evolução — e nós também.
+Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem busca entender como as coisas funcionam por trás das telas. Se você gosta de desafios, de resolver problemas e de construir o futuro com as próprias mãos (e teclas), junte-se a mim nessa jornada digital. A tecnologia está em constante evolução — e eu também.
  
 ## Tecnologias que utilizo no meu dia-a-dia
 <div style="display:inline-block">
@@ -87,6 +87,22 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <img src="https://img.shields.io/github/issues/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Issues abertas" style="display:inline-block;">
   <img src="https://img.shields.io/github/followers/NILTONMIGUEL?style=for-the-badge" alt="Seguidores" style="display:inline-block;">
   <img src="https://img.shields.io/github/repo-size/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Tamanho do repositório" style="display:inline-block;">
+</p>
+
+### Ações das Pessoas
+
+<p align="left">
+  <!-- Badge de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=NILTONMIGUEL&style=for-the-badge" alt="Visualizações de perfil" style="display:inline-block;">
+  
+  <!-- Badge de seguidores -->
+  <img src="https://img.shields.io/github/followers/NILTONMIGUEL?style=for-the-badge" alt="Seguidores" style="display:inline-block;">
+  
+  <!-- Badge de forks -->
+  <img src="https://img.shields.io/github/forks/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Forks" style="display:inline-block;">
+  
+  <!-- Badge de stars -->
+  <img src="https://img.shields.io/github/stars/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Stars" style="display:inline-block;">
 </p>
 
 
