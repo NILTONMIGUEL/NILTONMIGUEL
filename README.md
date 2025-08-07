@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 # Olá Pessoas Sejam Bem Vindos(a) !
 #### Me chamo Nilton Sousa , Sou discente de tecnológias , atualmente estou fazendo facudade de Análise e Desenvolvimento de Sistemas e curso técnico em Desenvolvimento de sistemas.
 
@@ -61,20 +62,9 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5919595b-bc8e-4756-827a-a4b55d45e1ea" />
    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a8ecb31c-8e19-418c-acbe-8856cb6e23eb" />
 </div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+
+<img src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/snake.svg" alt="Snake animation" />
 
 
 
