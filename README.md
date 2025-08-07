@@ -104,5 +104,29 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <!-- Badge de stars -->
   <img src="https://img.shields.io/github/stars/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Stars" style="display:inline-block;">
 </p>
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app?username=NILTONSOUSA&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app?username=NILTONMIGUEL&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&layout=compact&langs_count=10&theme=radical)
+
+
+## 🏆 Tech Stack Awards
+
+| 🏅 Tecnologia | 🖥️ Troféu |
+|--------------|-----------|
+| JavaScript   | ![Troféu JS](https://img.shields.io/badge/JavaScript-%F0%9F%8F%86-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
+| HTML5        | ![Troféu HTML](https://img.shields.io/badge/HTML5-%F0%9F%8F%86-orange?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3         | ![Troféu CSS](https://img.shields.io/badge/CSS3-%F0%9F%8F%86-blue?style=for-the-badge&logo=css3&logoColor=white) |
+| PHP          | ![Troféu PHP](https://img.shields.io/badge/PHP-%F0%9F%8F%86-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| VS Code      | ![Troféu VSCode](https://img.shields.io/badge/VS%20Code-%F0%9F%8F%86-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| Inkscape     | ![Troféu Inkscape](https://img.shields.io/badge/Inkscape-%F0%9F%8F%86-000000?style=for-the-badge&logo=inkscape&logoColor=white) |
+| Canva        | ![Troféu Canva](https://img.shields.io/badge/Canva-%F0%9F%8F%86-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
