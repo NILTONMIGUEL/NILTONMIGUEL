@@ -104,6 +104,9 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <!-- Badge de stars -->
   <img src="https://img.shields.io/github/stars/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Stars" style="display:inline-block;">
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&layout=compact&langs_count=10&theme=radical)
+
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app?username=NILTONSOUSA&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -115,7 +118,7 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
   <img src="https://github-profile-trophy.vercel.app?username=NILTONMIGUEL&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&layout=compact&langs_count=10&theme=radical)
+
 
 
 ## 🏆 Tech Stack Awards
