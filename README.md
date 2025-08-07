@@ -17,6 +17,8 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
 <div style="display:inline-block "><br/>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ea23d9cb-430b-45df-943e-ebeab6d1a87e" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b76e9af-7730-4f93-b2ac-502e2b37b5a2" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/970f8bdf-24f0-4271-b5ab-9e0ac7af5648" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c5e1fe4-43e1-4c4c-898d-ac1ba9001bc5" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bab5a2bf-6b46-45fc-b0fb-19e7022f27f4" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1ab7bf20-9c16-4b39-9724-0cdb7b6dfb79" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/907bb62c-bbd1-4330-8e00-4b6db8385c6b" />
