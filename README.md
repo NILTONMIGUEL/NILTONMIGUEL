@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 # Olá Pessoas Sejam Bem Vindos(a) !
 #### Me chamo Nilton Sousa , Sou discente de tecnológias , atualmente estou fazendo facudade de Análise e Desenvolvimento de Sistemas e curso técnico em Desenvolvimento de sistemas.
 
@@ -72,5 +75,6 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
 
