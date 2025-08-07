@@ -34,6 +34,7 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/80f4c394-10f1-4f46-af8c-0881a1b40225" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5390d7f3-c0ef-4129-8b9b-e0edb4c2aa55" />
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/add13e79-cd17-45c7-8f5d-7798ca95bb05" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9d5c806-65b0-49a3-b98c-8cee4b216140" />
 
 
 </div>
@@ -55,6 +56,8 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6bdf1a64-9640-410e-b48a-214d9342502d" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a461b0df-49b5-4ee4-b82f-721c4d8ea75f" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b00743b4-5e75-4088-9b67-54f381a9764a" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/074ee057-1230-40dc-ac91-171568438324" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/959ce08a-cb2a-4b57-824f-64fefae16385" />
 
 
 
