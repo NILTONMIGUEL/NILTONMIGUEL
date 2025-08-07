@@ -12,6 +12,10 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
 
 ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api?username=NILTONMIGUEL&show_icons=true&theme=dracula)  ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&show_icons=true&theme=blue-green)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NILTONMIGUEL.NILTONMIGUEL&"  />
+</div>
+
 ## Tecnologias que Cursei
 
 <div style="display:inline-block "><br/>
