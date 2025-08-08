@@ -1,0 +1,41 @@
+name: Generate Custom Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Snake Game
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake (Light Mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake-light.svg
+          color_snake: "#0000FF"   # Azul
+          color_dots: "#00FF00"    # Verde
+          snake_head: "🍒"
+          speed: 6
+
+      - name: Generate Snake (Dark Mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake-dark.svg?palette=github-dark
+          color_snake: "#0000FF"
+          color_dots: "#00FF00"
+          snake_head: "🍒"
+          speed: 6
+
+      - name: Upload to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
