@@ -58,12 +58,15 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6a13a1bd-30ca-4026-9a31-7a6485d4e323" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f42d422c-7916-4ab4-b359-4d993c648dbb" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/96fe9a2b-95d3-4142-8f05-9ee1d414fec9" />
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/36d8caba-309d-49dd-84e4-f997748ff459" />
+   <!-- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/36d8caba-309d-49dd-84e4-f997748ff459" />-->
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6bdf1a64-9640-410e-b48a-214d9342502d" />
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a461b0df-49b5-4ee4-b82f-721c4d8ea75f" />
+    <!--<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a461b0df-49b5-4ee4-b82f-721c4d8ea75f" />-->
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b00743b4-5e75-4088-9b67-54f381a9764a" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/074ee057-1230-40dc-ac91-171568438324" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/959ce08a-cb2a-4b57-824f-64fefae16385" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3b1891e4-733c-41e4-a054-453cd8d300e4" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6ec0092-51d0-4bc3-8188-08cb11e0dbbd" />
+
 
 
 
