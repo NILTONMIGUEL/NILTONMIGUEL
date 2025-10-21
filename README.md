@@ -65,9 +65,10 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/074ee057-1230-40dc-ac91-171568438324" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/959ce08a-cb2a-4b57-824f-64fefae16385" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3b1891e4-733c-41e4-a054-453cd8d300e4" />
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6ec0092-51d0-4bc3-8188-08cb11e0dbbd" />
+    <!--<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6ec0092-51d0-4bc3-8188-08cb11e0dbbd" />-->
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/306dc7a0-9c1b-44f2-9dca-c5b0d1ab4bdf" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc5cc7e7-7fac-4717-9e93-4716ca169b16" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a7db97c7-641f-4e58-9a3e-218ad37efbaa" />
 
 
 
