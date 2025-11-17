@@ -69,6 +69,9 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/306dc7a0-9c1b-44f2-9dca-c5b0d1ab4bdf" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc5cc7e7-7fac-4717-9e93-4716ca169b16" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a7db97c7-641f-4e58-9a3e-218ad37efbaa" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51923957-febc-4498-8070-36a93c649736" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8a01ef12-6904-43d3-a392-5a8477c3d6d4" />
+
 
 
 
