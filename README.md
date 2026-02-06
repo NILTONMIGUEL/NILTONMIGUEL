@@ -51,6 +51,61 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
 Se você é apaixonado por tecnologia, inovação e o poder da programação, está no lugar certo. Aqui, acreditamos que cada linha de código é uma oportunidade de transformar ideias em soluções reais. Seja criando aplicativos, desenvolvendo sistemas inteligentes ou automatizando tarefas do dia a dia, programar é mais do que uma habilidade — é uma forma de pensar o mundo de maneira lógica, criativa e eficiente.
 
 Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem busca entender como as coisas funcionam por trás das telas. Se você gosta de desafios, de resolver problemas e de construir o futuro com as próprias mãos (e teclas), junte-se a mim nessa jornada digital. A tecnologia está em constante evolução — e eu também.
+
+# 🌌 Aether Forged Games | CEO & Lead Developer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aether%20Forged&fontSize=70&animation=fadeIn" />
+</p>
+
+### 🛠️ "Forging Worlds from the Ether"
+Olá! Sou o CEO da **Aether Forged Games**. Minha paixão é transformar linhas de código em experiências imersivas e mundos digitais inesquecíveis. Como desenvolvedor de games e líder de estúdio, foco em criar mecânicas sólidas e ecossistemas escaláveis.
+
+---
+
+### 🚀 Sobre Mim
+- 🔭 Atualmente liderando a visão criativa e técnica na **Aether Forged Games**.
+- 🛠️ Especialista em transformar ideias complexas em protótipos jogáveis.
+- ⚡ Buscando sempre a perfeição na arquitetura de sistemas de jogo e performance.
+<!--- 💬 Pergunte-me sobre: Game Design, Gestão de Estúdios e Tecnologias Emergentes. -->
+
+---
+
+### 💻 Tech Stack & Arsenal
+<p align="left">
+  <!--
+  <img src="https://img.shields.io/badge/Engine-Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  -->
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ad309c52-44ac-4257-893e-e7bbca8605d0" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3e223f54-e8cd-4588-8d97-6eb7d648f48a" />
+
+</p>
+
+---
+
+### 📊 Estatísticas de Forja
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+<p align="left">
+  <a href="SUA_URL_AQUI" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="SEU_DISCORD_AQUI" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20jogo%20não%20está%20pronto%20quando%20não%20há%20mais%20nada%20a%20adicionar,%20mas%20sim%20quando%20não%20há%20mais%20nada%20a%20retirar." />
+</p>
+
  
 ## Tecnologias que utilizo no meu dia a dia
 <div style="display:inline-block">
