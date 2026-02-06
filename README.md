@@ -61,6 +61,9 @@ Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem 
 ### 🛠️ "Forging Worlds from the Ether"
 Olá! Sou o CEO da **Aether Forged Games**. Minha paixão é transformar linhas de código em experiências imersivas e mundos digitais inesquecíveis. Como desenvolvedor de games e líder de estúdio, foco em criar mecânicas sólidas e ecossistemas escaláveis.
 
+
+
+
 ---
 
 ### 🚀 Sobre Mim
@@ -68,7 +71,8 @@ Olá! Sou o CEO da **Aether Forged Games**. Minha paixão é transformar linhas 
 - 🛠️ Especialista em transformar ideias complexas em protótipos jogáveis.
 - ⚡ Buscando sempre a perfeição na arquitetura de sistemas de jogo e performance.
 <!--- 💬 Pergunte-me sobre: Game Design, Gestão de Estúdios e Tecnologias Emergentes. -->
-
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7051e86a-bb24-4f90-9491-3cc93caf7fda" />
+https://aether-forged-games.itch.io/
 ---
 
 ### 💻 Tech Stack & Arsenal
