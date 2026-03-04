@@ -13,9 +13,9 @@
 Atualmente exploro linguagens como JavaScript, Java , PHP e outras tecnologias web. Este repositório é meu espaço para aprender, compartilhar e evoluir.
 
 Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
-
+<!--
 ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api?username=NILTONMIGUEL&show_icons=true&theme=dracula)  ![NILTONMIGUEL GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&show_icons=true&theme=blue-green)
-
+-->
 
 
 ## Tecnologias que Cursei
@@ -41,6 +41,10 @@ Contribuições, feedbacks e ideias são sempre bem-vindos! 👨‍💻✨
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5390d7f3-c0ef-4129-8b9b-e0edb4c2aa55" />
   <!--<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/add13e79-cd17-45c7-8f5d-7798ca95bb05" />-->
   <!--<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9d5c806-65b0-49a3-b98c-8cee4b216140" />-->
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d4598bd5-b444-437c-937e-217394bf6038" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c91d4a20-888c-4901-a7fd-a44839a73af2" />
+
+
 
 
 </div>
@@ -52,56 +56,11 @@ Se você é apaixonado por tecnologia, inovação e o poder da programação, es
 
 Neste espaço, celebramos a curiosidade de quem nunca para de aprender, de quem busca entender como as coisas funcionam por trás das telas. Se você gosta de desafios, de resolver problemas e de construir o futuro com as próprias mãos (e teclas), junte-se a mim nessa jornada digital. A tecnologia está em constante evolução — e eu também.
 
-# 🌌 Aether Forged Games | CEO & Lead Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aether%20Forged&fontSize=70&animation=fadeIn" />
-</p>
-
-### 🛠️ "Forging Worlds from the Ether"
-Olá! Sou o CEO da **Aether Forged Games**. Minha paixão é transformar linhas de código em experiências imersivas e mundos digitais inesquecíveis. Como desenvolvedor de games e líder de estúdio, foco em criar mecânicas sólidas e ecossistemas escaláveis.
-
-
-
-
----
-
-### 🚀 Sobre Mim
-- 🔭 Atualmente liderando a visão criativa e técnica na **Aether Forged Games**.
-- 🛠️ Especialista em transformar ideias complexas em protótipos jogáveis.
-- ⚡ Buscando sempre a perfeição na arquitetura de sistemas de jogo e performance.
-<!--- 💬 Pergunte-me sobre: Game Design, Gestão de Estúdios e Tecnologias Emergentes. -->
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7051e86a-bb24-4f90-9491-3cc93caf7fda" />
-https://aether-forged-games.itch.io/
----
-
-### 💻 Tech Stack & Arsenal
-<p align="left">
-  <!--
-  <img src="https://img.shields.io/badge/Engine-Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  -->
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ad309c52-44ac-4257-893e-e7bbca8605d0" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3e223f54-e8cd-4588-8d97-6eb7d648f48a" />
-
-</p>
-
----
-
-### 📊 Estatísticas de Forja
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Conecte-se Comigo
 <p align="left">
-  <a href="SUA_URL_AQUI" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <!-- <a href="SUA_URL_AQUI" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a> -->
   <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="SEU_DISCORD_AQUI" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
@@ -117,8 +76,10 @@ https://aether-forged-games.itch.io/
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6a13a1bd-30ca-4026-9a31-7a6485d4e323" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f42d422c-7916-4ab4-b359-4d993c648dbb" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/96fe9a2b-95d3-4142-8f05-9ee1d414fec9" />
-   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/36d8caba-309d-49dd-84e4-f997748ff459" />
+  <!--
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/36d8caba-309d-49dd-84e4-f997748ff459" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6bdf1a64-9640-410e-b48a-214d9342502d" />
+  -->
     <!--<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a461b0df-49b5-4ee4-b82f-721c4d8ea75f" />-->
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b00743b4-5e75-4088-9b67-54f381a9764a" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/074ee057-1230-40dc-ac91-171568438324" />
@@ -130,6 +91,9 @@ https://aether-forged-games.itch.io/
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a7db97c7-641f-4e58-9a3e-218ad37efbaa" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51923957-febc-4498-8070-36a93c649736" />
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8a01ef12-6904-43d3-a392-5a8477c3d6d4" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4152eeec-2947-4be6-a0c8-fac9030b8c94" />
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c91d4a20-888c-4901-a7fd-a44839a73af2" />
+
 
 
 
@@ -139,7 +103,7 @@ https://aether-forged-games.itch.io/
 </div>
 
 
-<img src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/NILTONMIGUEL/NILTONMIGUEL/output/snake.svg" alt="Snake animation" /> -->
 
 
 <h2 align="center">
@@ -174,6 +138,7 @@ https://aether-forged-games.itch.io/
   <img src="https://img.shields.io/github/stars/NILTONMIGUEL/NILTONMIGUEL?style=for-the-badge" alt="Stars" style="display:inline-block;">
 </p>
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NILTONMIGUEL&layout=compact&langs_count=10&theme=radical)
 
 <div align="center">
@@ -187,9 +152,10 @@ https://aether-forged-games.itch.io/
   <img src="https://github-profile-trophy.vercel.app?username=NILTONMIGUEL&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+-->
 
 
-
+<!--
 ## 🏆 Tech Stack Awards
 
 | 🏅 Tecnologia | 🖥️ Troféu |
@@ -201,4 +167,6 @@ https://aether-forged-games.itch.io/
 | VS Code      | ![Troféu VSCode](https://img.shields.io/badge/VS%20Code-%F0%9F%8F%86-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | Inkscape     | ![Troféu Inkscape](https://img.shields.io/badge/Inkscape-%F0%9F%8F%86-000000?style=for-the-badge&logo=inkscape&logoColor=white) |
 | Canva        | ![Troféu Canva](https://img.shields.io/badge/Canva-%F0%9F%8F%86-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+
+-->
 
